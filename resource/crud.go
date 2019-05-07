@@ -6,9 +6,9 @@ import (
 	"strings"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/qor"
-	"github.com/qor/qor/utils"
-	"github.com/qor/roles"
+	"github.com/itech-eng/qor"
+	"github.com/itech-eng/qor/utils"
+	"github.com/itech-eng/roles"
 )
 
 // CallFindOne call find one method

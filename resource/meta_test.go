@@ -6,10 +6,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
-	testutils "github.com/qor/qor/test/utils"
-	"github.com/qor/qor/utils"
+	"github.com/itech-eng/qor"
+	"github.com/itech-eng/qor/resource"
+	testutils "github.com/itech-eng/qor/test/utils"
+	"github.com/itech-eng/qor/utils"
 )
 
 func format(value interface{}) string {
